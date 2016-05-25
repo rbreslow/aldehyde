@@ -1,0 +1,10 @@
+{
+  "name": "aldehyde",
+  "version": "0.0.0",
+  "description": "aldehyde",
+  "main": "app.js",
+  "author": {
+    "name": "Rocky Breslow",
+    "email": ""
+  }
+}
