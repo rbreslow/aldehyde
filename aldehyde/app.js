@@ -3,7 +3,7 @@
 const shortid = require('shortid');
 const fs = require('fs');
 const hashFiles = require('hash-files');
-const db = require('level')('./db');
+const db = require('level-party')('./db');
 const restify = require('restify');
 
 function getChecksum(path) {
